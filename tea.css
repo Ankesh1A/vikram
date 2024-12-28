@@ -1,0 +1,26 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+.bg{
+   height: 100%;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   aspect-ratio: 50/50;
+   object-fit: contain;
+   mix-blend-mode: color-burn;
+   background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/1a/9f/86/0f/caption.jpg);
+}
+.font{
+   margin-left: 30%;
+   height:76.7%;
+   width: 34.50%;
+   background-image: url(https://cdn3.iconfinder.com/data/icons/cafe-and-restaurant-1/512/Coffee-512.png);
+}
